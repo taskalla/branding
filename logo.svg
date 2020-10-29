@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="381.49924mm"
+   height="165.69788mm"
+   viewBox="0 0 381.49924 165.69788"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/cjdenio/Documents/taskalla-branding/logo.png"
+   inkscape:export-xdpi="78.485008"
+   inkscape:export-ydpi="78.485008">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#1a1a1a"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54996411"
+     inkscape:cx="721.11338"
+     inkscape:cy="343.40943"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     showguides="false"
+     lock-margins="true"
+     fit-margin-top="30"
+     fit-margin-left="30"
+     fit-margin-right="30"
+     fit-margin-bottom="30"
+     inkscape:window-width="1406"
+     inkscape:window-height="743"
+     inkscape:window-x="299"
+     inkscape:window-y="153"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid839"
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       visible="false"
+       originx="-11.459828"
+       originy="-52.943188" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.459827,-52.943188)">
+    <circle
+       style="fill:#28afb0;fill-opacity:1;stroke:none;stroke-width:14.5268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path841"
+       cx="94.308769"
+       cy="135.79213"
+       r="52.848942"
+       inkscape:export-xdpi="123.03747"
+       inkscape:export-ydpi="123.03747" />
+    <g
+       id="g845"
+       style="stroke:#ffffff;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(1.7046002)"
+       inkscape:export-xdpi="123.03747"
+       inkscape:export-ydpi="123.03747">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 92.604169,165.36459 V 112.44792 H 72.760418"
+         id="path835"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.44792,112.44792 v 0"
+         id="path837"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:52.9167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="172.56516"
+       y="155.92693"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="172.56516"
+         y="155.92693"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:Jost;-inkscape-font-specification:Jost;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Taskalla</tspan></text>
+  </g>
+</svg>
